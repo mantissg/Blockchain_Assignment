@@ -1,4 +1,5 @@
-pragma solidity ^0.4.24;
+// SPDX-License-Identifier: Crypto-Kings
+pragma solidity >=0.7.0 <0.9.0;
 
 /*
  * @title String & slice utility library for Solidity contracts.
